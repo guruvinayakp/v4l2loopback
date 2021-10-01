@@ -14,7 +14,7 @@ PKG_RELEASE:=1
 
 PKG_SOURCE_PROTO:=git
 PKG_SOURCE_URL:=https://github.com/umlaeute/v4l2loopback
-PKG_SOURCE_VERSION:=79a71bf7308be5faf8d97c72107688f8c6da1733
+PKG_SOURCE_VERSION:=baf9de279afc7a7c7513e9c40a0c9ff88f456af4
 
 
 PKG_MAINTAINER:=Georgi Dimov <georgidimov94@gmail.com>
